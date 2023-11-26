@@ -1,0 +1,17 @@
+C:\Users\AYOUB\source\repos\Hospital\Hospital.Utilities\bin\Debug\net6.0\Hospital.Utilities.deps.json
+C:\Users\AYOUB\source\repos\Hospital\Hospital.Utilities\bin\Debug\net6.0\Hospital.Utilities.dll
+C:\Users\AYOUB\source\repos\Hospital\Hospital.Utilities\bin\Debug\net6.0\Hospital.Utilities.pdb
+C:\Users\AYOUB\source\repos\Hospital\Hospital.Utilities\bin\Debug\net6.0\Hospital.Models.dll
+C:\Users\AYOUB\source\repos\Hospital\Hospital.Utilities\bin\Debug\net6.0\Hospital.Repositories.dll
+C:\Users\AYOUB\source\repos\Hospital\Hospital.Utilities\bin\Debug\net6.0\Hospital.Models.pdb
+C:\Users\AYOUB\source\repos\Hospital\Hospital.Utilities\bin\Debug\net6.0\Hospital.Repositories.pdb
+C:\Users\AYOUB\source\repos\Hospital\Hospital.Utilities\obj\Debug\net6.0\Hospital.Utilities.csproj.AssemblyReference.cache
+C:\Users\AYOUB\source\repos\Hospital\Hospital.Utilities\obj\Debug\net6.0\Hospital.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AYOUB\source\repos\Hospital\Hospital.Utilities\obj\Debug\net6.0\Hospital.Utilities.AssemblyInfoInputs.cache
+C:\Users\AYOUB\source\repos\Hospital\Hospital.Utilities\obj\Debug\net6.0\Hospital.Utilities.AssemblyInfo.cs
+C:\Users\AYOUB\source\repos\Hospital\Hospital.Utilities\obj\Debug\net6.0\Hospital.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\AYOUB\source\repos\Hospital\Hospital.Utilities\obj\Debug\net6.0\Hospital.Utilities.csproj.CopyComplete
+C:\Users\AYOUB\source\repos\Hospital\Hospital.Utilities\obj\Debug\net6.0\Hospital.Utilities.dll
+C:\Users\AYOUB\source\repos\Hospital\Hospital.Utilities\obj\Debug\net6.0\refint\Hospital.Utilities.dll
+C:\Users\AYOUB\source\repos\Hospital\Hospital.Utilities\obj\Debug\net6.0\Hospital.Utilities.pdb
+C:\Users\AYOUB\source\repos\Hospital\Hospital.Utilities\obj\Debug\net6.0\ref\Hospital.Utilities.dll
